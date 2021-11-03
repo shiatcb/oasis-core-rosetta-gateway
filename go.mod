@@ -1,6 +1,6 @@
 module github.com/oasisprotocol/oasis-core-rosetta-gateway
 
-go 1.15
+go 1.16
 
 replace github.com/tendermint/tendermint => github.com/oasisprotocol/tendermint v0.34.9-oasis2
 
