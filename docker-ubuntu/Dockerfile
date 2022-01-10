@@ -16,7 +16,7 @@ RUN apt-get update && apt-get install -y bzip2 libseccomp-dev
 ARG CORE_BRANCH=v21.3.5
 ARG CORE_GITHUB=https://github.com/oasisprotocol/oasis-core
 
-ARG GATEWAY_BRANCH=master
+ARG GATEWAY_BRANCH=pro-wh/feature/ubuntudocker
 ARG GATEWAY_GITHUB=https://github.com/oasisprotocol/oasis-core-rosetta-gateway
 
 ARG JEMALLOC_VERSION=5.2.1
