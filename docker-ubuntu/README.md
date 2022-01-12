@@ -45,19 +45,19 @@ build  image to save disk space.
 
 <!-- markdownlint-disable line-length -->
 [official GitHub Releases]:
-https://github.com/oasisprotocol/oasis-core-rosetta-gateway/releases/
+  https://github.com/oasisprotocol/oasis-core-rosetta-gateway/releases/
 [Change Log for 1.1.1]:
-https://github.com/oasisprotocol/oasis-core-rosetta-gateway/blob/v1.1.1/CHANGELOG.md
+  https://github.com/oasisprotocol/oasis-core-rosetta-gateway/blob/v1.1.1/CHANGELOG.md
 [Rosetta API]: https://www.rosetta-api.org/docs/welcome.html
 [Oasis Core]: https://github.com/oasisprotocol/oasis-core
 [Oasis Node]:
-https://docs.oasis.dev/general/run-a-node/prerequisites/oasis-node
+  https://docs.oasis.dev/general/run-a-node/prerequisites/oasis-node
 [Oasis Rosetta Gateway]:
-https://github.com/oasisprotocol/oasis-core-rosetta-gateway
+  https://github.com/oasisprotocol/oasis-core-rosetta-gateway
 [Rosetta Docker Deployment]:
-https://www.rosetta-api.org/docs/node_deployment.html
+  https://www.rosetta-api.org/docs/node_deployment.html
 [Run a Non-validator Node]:
-https://docs.oasis.dev/general/run-a-node/set-up-your-node/run-non-validator#configuration
+  https://docs.oasis.dev/general/run-a-node/set-up-your-node/run-non-validator#configuration
 [Oasis Docs]:
-https://docs.oasis.dev/
+  https://docs.oasis.dev/
 <!-- markdownlint-enable line-length -->
